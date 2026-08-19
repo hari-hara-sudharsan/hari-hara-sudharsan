@@ -201,7 +201,7 @@
 
   <!-- Streak Stats Card -->
   <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hari-hara-sudharsan&theme=synthwave&hide_border=true&background=0D1117&ring=00F2FE&fire=7F00FF&currStreakNum=00FF9D" alt="GitHub Streak Stats" width="85%" />
+    <img src="https://streak-stats.demolab.com/?user=hari-hara-sudharsan&theme=synthwave&hide_border=true&background=0D1117&ring=00F2FE&fire=7F00FF&currStreakNum=00FF9D" alt="GitHub Streak Stats" width="85%" />
   </p>
 
 </div>
