@@ -13,13 +13,13 @@
 ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝
 ```
 
-### B.Tech IT '28 · Salesforce Dev Trainee @ Kurinji Technologies · Tech Lead @ Trinity Intelligence & Automation
+### B.Tech IT '28 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+agent+orchestration+infra;Shipping+AI-native+dev+tools;Hacking+on+Web3+%2B+DeFi+security;Competing+in+blockchain+%2F+AI+hackathons;Turning+ideas+into+production+systems" alt="Typing SVG" />
 
 <p>
 <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/j-hari-hara-sudharsanj"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 </div>
@@ -30,7 +30,6 @@
 
 ```yaml
 name: Hari Hara Sudharsan J
-role: Salesforce Developer Trainee @ Kurinji Technologies | Tech Lead @ Trinity Intelligence & Automation
 education: B.Tech Information Technology, Chennai Institute of Technology (Class of 2028)
 
 focus:
@@ -60,14 +59,6 @@ I compete in **AI and blockchain hackathons** as a way of forcing myself to ship
 ---
 
 ## 🚀 What I'm Building
-
-### 🧠 [ATHENA](#) — AI-Native Developer Intelligence Platform
-
-An AI-native developer intelligence and career orchestration platform.
-
-* Full production-quality landing page — single-file HTML/Tailwind/vanilla JS with glassmorphism and animated SVG diagrams
-* Backed by structured market research across 50+ Product Hunt launches to find underserved niches (LLM cost attribution, dev carbon tracking, agent audit trails)
-* Premium Apple/Linear/Vercel-inspired aesthetic
 
 ### 🤖 [AgentOS](#) — Agent Orchestration Infrastructure
 
@@ -188,9 +179,9 @@ Deep Learning Fundamentals (activations, gradient flow)
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=000000"/>
+<img src="https://github-readme-stats.vercel.app/api?username=hari-hara-sudharsan&show_icons=true&theme=dark&hide_border=true&bg_color=000000"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true&background=000000"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hari-hara-sudharsan&theme=dark&hide_border=true&background=000000"/>
 
 </div>
 
@@ -202,7 +193,7 @@ Deep Learning Fundamentals (activations, gradient flow)
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Stats"/>
+<img src="https://leetcard.jacoblin.cool/HHSJ-008?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Stats"/>
 
 </div>
 
@@ -265,7 +256,7 @@ Open to collaborating on:
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=HHS-008&label=Profile%20Views&color=grey&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=HHSJ-008&label=Profile%20Views&color=grey&style=flat-square"/>
 
 <br><br>
 
