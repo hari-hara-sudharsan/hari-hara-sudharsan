@@ -1,194 +1,271 @@
-# Hari Hara Sudharsan J 👋
+# Hari Hara Sudharsan J
+
+<div align="center">
+
+```text
+██╗  ██╗ █████╗ ██████╗ ██╗
+██║  ██║██╔══██╗██╔══██╗██║
+███████║███████║██████╔╝██║
+██╔══██║██╔══██║██╔══██╗██║
+██║  ██║██║  ██║██║  ██║██║
+╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝
+```
+
+### `B.Tech IT '28` · `AI Systems` · `Agent Infrastructure` · `Web3`
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&pause=900&color=00F7FF&center=true&vCenter=true&width=750&lines=Building+systems%2C+not+just+features.;Engineering+agent+orchestration+infrastructure.;Shipping+AI-native+developer+tools.;Hacking+on+Web3+%2B+DeFi+security.;Learning+how+distributed+systems+actually+break.;Turning+ideas+into+things+people+can+run." alt="Typing SVG"/>
+
+<br>
+
+<a href="https://github.com/hari-hara-sudharsan">
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/j-hari-hara-sudharsanj">
+<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br><br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=hari-hara-sudharsan\&label=PROFILE%20VIEWS\&color=00F7FF\&style=flat-square)
+
+</div>
+
+---
+
+```text
+$ whoami
+
+Hari Hara Sudharsan J
+├── Student ............. B.Tech Information Technology '28
+├── Building ............ AI / Agent Infrastructure
+├── Exploring ........... Distributed Systems
+├── Hacking ............. Web3 / DeFi / Security
+├── Languages ........... Java · Python · Rust · TypeScript
+└── Current obsession ... "How does this scale?"
+```
 
 > **I build products, not just projects.**
 
-<div align="center">
+---
+
+## ⚡ What I'm About
+
+I'm a developer interested in the layer **between an idea and a production system**.
+
+I like building things where the interesting problems aren't just *"does it work?"* but:
+
 ```text
-                                                                ██╗  ██╗ █████╗ ██████╗ ██╗
-                                                                ██║  ██║██╔══██╗██╔══██╗██║
-                                                                ███████║███████║██████╔╝██║
-                                                                ██╔══██║██╔══██║██╔══██╗██║
-                                                                ██║  ██║██║  ██║██║  ██║██║
-                                                                ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝
+Can it scale?
+Can it fail safely?
+Can it be observed?
+Can it be secured?
+Can someone else actually use it?
 ```
 
-### B.Tech IT '28 
+My main playgrounds:
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+agent+orchestration+infra;Shipping+AI-native+dev+tools;Hacking+on+Web3+%2B+DeFi+security;Competing+in+blockchain+%2F+AI+hackathons;Turning+ideas+into+production+systems" alt="Typing SVG" />
+**🤖 AI Systems**
+Agent orchestration · Multi-agent workflows · GraphRAG · AI-native tooling
 
-<p>
-<a href="https://github.com/hari-hara-sudharsan"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/j-hari-hara-sudharsanj"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
+**⚙️ Systems Engineering**
+Backend architecture · Distributed systems · Concurrency · System Design
 
-</div>
+**🔐 Web3 Security**
+DeFi · On-chain systems · Compliance tooling · Smart-contract ecosystems
+
+**🦀 Developer Infrastructure**
+CLI tooling · Rust · APIs · Automation · Developer experience
 
 ---
 
-## 🧠 About Me
+# 🚀 Things I'm Building
 
-```yaml
-name: Hari Hara Sudharsan J
-education: B.Tech Information Technology, Chennai Institute of Technology (Class of 2028)
+### 🤖 AgentOS
 
-focus:
-  - Agent Orchestration & Multi-Agent Systems
-  - Backend & Distributed Systems
-  - Web3 / DeFi Security & Compliance Tooling
-  - Developer Infrastructure & CLI Tooling
-  - System Design
+**Agent orchestration infrastructure for reliable AI workflows.**
 
-languages:
-  - Java
-  - Python
-  - Rust
-  - JavaScript / TypeScript
-
-currently_building:
-  - AgentOS — agent orchestration infrastructure
-  - ATHENA — AI-native developer intelligence platform
-  - PotKit — Rust CLI tooling for Portaldot/Substrate
-  - CompoundOS — engineer performance tracking dashboard
-
-philosophy: "Don't just make it work. Understand why it works."
+```text
+Agents
+  │
+  ├── Tools
+  ├── Memory
+  ├── Policies
+  └── Workflows
+        │
+        ▼
+┌──────────────────────┐
+│      AgentOS         │
+│                      │
+│  Orchestration       │
+│  Execution            │
+│  Auth / RBAC         │
+│  Persistence         │
+│  Guardrails          │
+└──────────┬───────────┘
+           │
+           ▼
+      Production
 ```
 
-I compete in **AI and blockchain hackathons** as a way of forcing myself to ship real, judged systems fast — not just tutorials. That habit shows up in everything below.
+`FastAPI` · `SQLAlchemy` · `PostgreSQL` · `JWT` · `RBAC` · `Alembic` · `Docker` · `LangGraph`
 
 ---
 
-## 🚀 What I'm Building
+### 🦀 PotKit
 
-### 🤖 [AgentOS](#) — Agent Orchestration Infrastructure
+**A Hardhat / Foundry-inspired developer toolkit for Substrate.**
 
-A Python-based platform for orchestrating multi-agent workflows reliably.
+Built because blockchain developer tooling should be less painful.
 
-* Async FastAPI + SQLAlchemy backend with JWT auth and RBAC
-* Alembic migrations, Docker Compose deployment
-* LangGraph-based orchestration scaffolding
+```text
+CLI
+ │
+ ├── Project scaffolding
+ ├── Development workflows
+ ├── Chain interaction
+ ├── Contract tooling
+ └── Developer onboarding
+```
 
-### 🦀 [PotKit](#) — Rust CLI Tooling for Portaldot/Substrate
+`Rust` · `ink!` · `Subxt` · `Tokio` · `Clap` · `Substrate`
 
-A Hardhat/Foundry-inspired developer toolkit for the Substrate ecosystem.
+---
 
-* Built on `ink!`, `Subxt`, `Tokio`, and `Clap`
-* Hackathon-grade docs with ASCII architecture diagrams
-* Interactive HTML quick-start stepper for onboarding
+### 🧠 ATHENA
 
-### 📊 [CompoundOS](#) — Engineer Performance Tracking Dashboard
+**AI-native developer intelligence.**
 
-A personal performance dashboard for software/AI engineers.
+Exploring how AI can become an actual engineering copilot rather than another chat window.
 
-* Multi-domain daily logging with AI-generated reflections
+```text
+Developer
+    │
+    ▼
+┌───────────────┐
+│    ATHENA      │
+├───────────────┤
+│ Context       │
+│ Reasoning     │
+│ Retrieval     │
+│ Automation    │
+└───────┬───────┘
+        │
+        ▼
+Engineering Intelligence
+```
+
+---
+
+### 📊 CompoundOS
+
+**A personal operating system for engineering growth.**
+
+Track → Reflect → Analyze → Simulate → Improve.
+
+Features include:
+
+* Multi-domain daily logging
+* AI-generated reflections
 * Career trajectory simulation
-* Shipped as a single-file HTML/JS app
+* Engineering performance analytics
+
+Built as a lightweight single-file web application.
 
 ---
 
-## 🔐 Web3 & Security Track Record
+# 🔐 Web3 × Security
 
-I've spent several cycles building on the DeFi/compliance-adjacent side of Web3:
+I enjoy the intersection where **blockchain meets actual security and compliance problems**.
 
-* **MuleShield PRO** — XGBoost-based mule account & fraud-layering detection with FIU-IND STR automation (PSB CyberShield Grand Finale 2026)
-* **MantleGuard** (proposal) — gas profiler + AI audit assistant + RAG-based copilot, built for a Mantle Network AI DevTools hackathon
-* Compliant Onchain Finance track entry — SKALE Programmable Privacy Hackathon
-* Participant — Ethereum Mexico 2026 Hackathon
-* Technical blueprint for **AATaaS** (AI Agent Audit Trail as a Service)
+### 🛡️ MuleShield PRO
+
+XGBoost-powered mule-account and fraud-layering detection with automated FIU-IND STR workflows.
+
+**PSB CyberShield Grand Finale 2026**
 
 ---
 
-## 🛠️ Tech Stack
+### 🧱 MantleGuard
+
+AI-powered smart-contract auditing concept combining:
+
+`Gas Profiling` + `AI Audit Assistant` + `RAG Copilot`
+
+Built for a Mantle Network AI DevTools hackathon.
+
+---
+
+### 🔎 AATaaS
+
+**AI Agent Audit Trail as a Service**
+
+Exploring infrastructure for traceable, auditable AI-agent actions.
+
+Because:
+
+> If an agent can act, someone should be able to explain what it did.
+
+---
+
+# 🧰 My Toolbox
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,rust,js,ts,react,nodejs,fastapi,spring,postgres,mongodb,redis,docker,kubernetes,aws,linux,git,github&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=java,python,rust,cpp,js,ts,react,nodejs,fastapi,spring,postgres,mongodb,redis,docker,kubernetes,aws,gcp,linux,git,github&theme=dark"/>
 
 </div>
 
-### Languages
-![Java](https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white)
+### `Languages`
 
-### Backend & Agent Infra
-![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=flat-square&logo=fastapi&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-000000?style=flat-square&logo=spring&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=node.js&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=flat-square)
+`Java` · `Python` · `Rust` · `C++` · `JavaScript` · `TypeScript`
 
-### Web3
-![Substrate](https://img.shields.io/badge/Substrate-000000?style=flat-square)
-![ink!](https://img.shields.io/badge/ink!-000000?style=flat-square)
-![Solidity](https://img.shields.io/badge/Solidity-000000?style=flat-square&logo=solidity&logoColor=white)
+### `Backend`
 
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-000000?style=flat-square&logo=redis&logoColor=white)
+`FastAPI` · `Spring Boot` · `Node.js` · `REST APIs` · `Async Systems`
 
-### Cloud / DevOps
-![AWS](https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-000000?style=flat-square&logo=kubernetes&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white)
+### `AI / Agents`
+
+`LangGraph` · `RAG` · `GraphRAG` · `Knowledge Graphs` · `Multi-Agent Systems`
+
+### `Web3`
+
+`Substrate` · `ink!` · `Solidity` · `DeFi` · `On-chain Systems`
+
+### `Data`
+
+`PostgreSQL` · `MongoDB` · `Redis`
+
+### `Infrastructure`
+
+`AWS` · `Docker` · `Kubernetes` · `Linux` · `Git`
 
 ---
 
-## 🧩 DSA & Competitive Programming
+# 🧩 DSA Mode
 
-Active on **LeetCode** and **CodeChef**, working through problems pattern-first:
+Currently sharpening the fundamentals one problem at a time.
 
 ```text
-Union-Find / DSU
-       ↓
-Arrays, Sorting & Difference Arrays
-       ↓
-Recursion & Backtracking
-       ↓
-Binary Trees & Dynamic Programming
-       ↓
-Graphs & Cycle Detection
-       ↓
+Arrays
+   ↓
+Hashing
+   ↓
+Linked Lists
+   ↓
+Stacks / Queues
+   ↓
+Trees
+   ↓
+Graphs
+   ↓
+DSU
+   ↓
+Dynamic Programming
+   ↓
 Advanced Graph Algorithms
 ```
 
-> **Goal:** recognize the pattern before writing the code.
-
----
-
-## 🏗️ System Design — What I'm Studying
-
-```text
-Query Planning & Composite Indexes (Postgres internals)
-     ↓
-Rate-Limited API Gateways (Redis-backed)
-     ↓
-Strong vs. Eventual Consistency, Quorum Reads/Writes
-     ↓
-Learning Rate Scheduling & Convergence
-     ↓
-Deep Learning Fundamentals (activations, gradient flow)
-```
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=hari-hara-sudharsan&show_icons=true&theme=dark&hide_border=true&bg_color=000000"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hari-hara-sudharsan&theme=dark&hide_border=true&background=000000"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area_color=FFFFFF&area=true&hide_border=true"/>
-
-</div>
+> **Pattern first. Code second.**
 
 <div align="center">
 
@@ -198,51 +275,136 @@ Deep Learning Fundamentals (activations, gradient flow)
 
 ---
 
-## 🔬 Currently Exploring
+# 🏗️ Currently Learning
+
+Not just collecting technologies — trying to understand what's underneath them.
 
 ```text
-┌─────────────────────────────────────────┐
-│   🤖 Multi-Agent Orchestration          │
-│   🦀 Rust for Dev Tooling               │
-│   🔐 Compliance-Grade Web3 Systems      │
-│   ⚙️ Distributed Systems                │
-│   🧩 Advanced DSA                       │
-│   🏗️ System Design                      │
-└─────────────────────────────────────────┘
+┌────────────────────────────────────────────┐
+│                                            │
+│  ⚙ Distributed Systems                    │
+│  🧠 System Design                          │
+│  🗄 PostgreSQL Internals                   │
+│  🚦 Rate Limiting & API Gateways           │
+│  🔄 Consistency & Consensus                │
+│  🧵 Concurrency & Synchronization         │
+│  🤖 Agent Architecture                     │
+│  🧬 Deep Learning Fundamentals             │
+│                                            │
+└────────────────────────────────────────────┘
 ```
-
-> **How do we build intelligent systems that stay reliable once they're large, distributed, and autonomous?**
 
 ---
 
-## 💡 Engineering Philosophy
+# 📈 Engineering Mindset
 
 ```text
-Prototype → Understand → Measure → Optimize → Scale → Secure → Ship 🚀
+              ┌──────────┐
+              │   IDEA   │
+              └────┬─────┘
+                   ↓
+              ┌──────────┐
+              │ PROTOTYPE│
+              └────┬─────┘
+                   ↓
+              ┌──────────┐
+              │ UNDERSTAND│
+              └────┬─────┘
+                   ↓
+              ┌──────────┐
+              │  MEASURE │
+              └────┬─────┘
+                   ↓
+              ┌──────────┐
+              │ OPTIMIZE │
+              └────┬─────┘
+                   ↓
+              ┌──────────┐
+              │  SCALE   │
+              └────┬─────┘
+                   ↓
+              ┌──────────┐
+              │  SECURE  │
+              └────┬─────┘
+                   ↓
+              ┌──────────┐
+              │   SHIP   │
+              └──────────┘
 ```
 
-I care about the engineering behind the product, not just the interface on top of it.
+### `Build → Break → Understand → Rebuild`
+
+That's basically the loop.
 
 ---
 
-## 🤝 Let's Build Something
+# 🧪 Current Experiments
 
-Open to collaborating on:
+```text
+[■■■■■■■■■■] Agent Infrastructure
 
-* 🤖 Agent infrastructure & orchestration
-* ⚙️ Backend & distributed systems
-* 🔐 Web3 / DeFi security & compliance tooling
-* 🔗 Developer tools
-* 🚀 Ambitious hackathon or open-source projects
+[■■■■■■■■░░] Distributed Systems
+
+[■■■■■■■░░░] Web3 Security
+
+[■■■■■■░░░░] Rust Tooling
+
+[■■■■■░░░░░] System Design
+
+[■■■■░░░░░░] Deep Learning
+```
+
+*Progress bars are vibes, not telemetry.* 😄
+
+---
+
+# 📊 GitHub Activity
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=hari-hara-sudharsan&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=00F7FF&icon_color=00F7FF"/>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hari-hara-sudharsan&theme=dark&hide_border=true&background=000000"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hari-hara-sudharsan&bg_color=000000&color=FFFFFF&line=00F7FF&point=FFFFFF&area=true&hide_border=true"/>
+
+</div>
+
+---
+
+# 🌌 The Question I'm Chasing
+
+> **How do we build intelligent systems that remain reliable when they become large, distributed, autonomous, and actually useful?**
+
+That's the rabbit hole.
+
+And I'm probably going down it.
+
+---
+
+# 🤝 Let's Build
+
+I'm always interested in working on:
+
+```text
+🤖 AI / Agent Infrastructure
+⚙️ Distributed Backend Systems
+🔐 Web3 / DeFi Security
+🦀 Rust Developer Tooling
+🧠 AI-native Developer Products
+🚀 Hackathons & Open Source
+```
+
+If you're building something ambitious, **I'm interested.**
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/j-hari-hara-sudharsanj">
+<img src="https://img.shields.io/badge/LET'S_CONNECT-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
 </a>
 
 </div>
@@ -251,14 +413,24 @@ Open to collaborating on:
 
 <div align="center">
 
-### `while(alive) { learn(); build(); ship(); }`
+```text
+┌────────────────────────────────────────────┐
+│                                            │
+│   while (alive) {                          │
+│       learn();                             │
+│       build();                             │
+│       break_things();                      │
+│       understand();                        │
+│       ship();                              │
+│   }                                        │
+│                                            │
+└────────────────────────────────────────────┘
+```
+
+### `System.out.println("Keep building.");`
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=HHSJ-008&label=Profile%20Views&color=grey&style=flat-square"/>
-
-<br><br>
-
-**⭐ Build things worth remembering.**
+⭐ **If something here is useful, feel free to explore the repos.**
 
 </div>
